@@ -2,7 +2,7 @@
 
 ### Linux Enthusiast
 
--I’m currently working on ... Tucana, MCOS 
+-I’m currently working on ... Tucana, Cross-SH 
 - 👯 I’m looking to collaborate on ... **Linux Projects**
 - 🤔 I’m looking for help with ... **Tucana (Hosting Repos) ** 
 - 💬 Ask me about ... Linux ANYTHING Linux
