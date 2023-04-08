@@ -9,4 +9,4 @@
 - 📫 How to reach me: ... TeraBot452#3335 on Discord
 - ⚡ Fun fact: ... **1+1=1 and the earth is flat**
 
-[![xXTeraXx's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXTeraXx&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![xXTeraXx's GitHub stats](https://github-readme-stats.vercel.app/api?username=marvelman3284&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
