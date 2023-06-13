@@ -10,3 +10,4 @@
 - Programming Languages ... C, Rust, Python, Java, Bash, Haskell.
 
 [![xXTeraXx's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXTeraXx&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![xXTeraXx GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xXTeraXx&theme=darkl&hide_border=true)
