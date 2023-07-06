@@ -2,7 +2,7 @@
 
 ### Linux Enthusiast
 
--I’m currently working on ... Tucana, Cross-SH 
+-I’m currently working on ... Tucana, Tucana-Build-Scripts 
 - 👯 I’m looking to collaborate on ... **Linux Projects**
 - 🤔 I’m looking for help with ... **Tucana**
 - 💬 Ask me about ... Basically Anything!
