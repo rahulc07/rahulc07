@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on ... **Linux Projects**
 - 🤔 I’m looking for help with ... **Tucana**
 - 💬 Ask me about ... Basically Anything!
-- 📫 How to reach me: ... rahulshaku2@gmail.com or @terabot452 on Discord for IM
+- 📫 How to reach me: ... rahul@projecteclipse.org or @terabot452 on Discord for IM
 - Programming Languages ... C, Rust, Python, Java, Bash, Haskell.
 
 [![xXTeraXx's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXTeraXx&theme=city_lights&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
