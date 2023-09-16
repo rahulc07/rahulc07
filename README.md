@@ -1,6 +1,7 @@
 
 
 ### Linux Enthusiast
+I set my username years ago and too many things depend on it, I know it's cringe
 
 -I’m currently working on ... Tucana, Tucana-Build-Scripts 
 - 👯 I’m looking to collaborate on ... **Linux Projects**
