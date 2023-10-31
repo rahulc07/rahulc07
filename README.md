@@ -10,5 +10,5 @@ I set my username years ago and too many things depend on it, I know it's cringe
 - 📫 How to reach me: ... rahul@projecteclipse.org or @terabot452 on Discord for IM
 - Programming Languages ... C, Rust, Python, Java, Bash, Haskell.
 
-[![xXTeraXx's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXTeraXx&theme=city_lights&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![xXTeraXx's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXTeraXx&theme=city_lights&rank_icon=grade)](https://github.com/anuraghazra/github-readme-stats)
 ![xXTeraXx GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xXTeraXx&theme=city_lights&hide_border=true)
