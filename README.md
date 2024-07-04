@@ -1,7 +1,6 @@
 
 
 ### Linux Enthusiast
-I set my username years ago and too many things depend on it, I know it's bad
 
 -I’m currently working on ... Tucana, Tucana-Build-Scripts 
 - 👯 I’m looking to collaborate on ... **Linux Projects**
@@ -10,5 +9,5 @@ I set my username years ago and too many things depend on it, I know it's bad
 - 📫 How to reach me: ... rahul AT projecteclipse.org or @terabot452 on Discord for IM
 - Programming Languages ... C, Dart(Flutter), Bash, Python, Java, SGML, Rust.
 
-[![xXTeraXx's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXTeraXx&theme=city_lights&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-![xXTeraXx GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xXTeraXx&theme=city_lights&hide_border=true)
+[![rahulc07's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulc07&theme=city_lights&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+![rahulc07 GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rahulc07&theme=city_lights&hide_border=true)
