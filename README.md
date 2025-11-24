@@ -1,8 +1,8 @@
 
 
-### Linux Enthusiast
+### A slightly crazy Systems/Linux engineer
 
--I’m currently working on ... Tucana, Tucana-Build-Scripts 
+-I’m currently working on ... Tucana, LFS, E8 Remote Desktop
 - 👯 I’m looking to collaborate on ... **Linux Projects**
 - 🤔 I’m looking for help with ... **Tucana**
 - 💬 Ask me about ... Basically Anything!
